@@ -1,0 +1,22 @@
+{
+
+        "prefix": ".",
+        "owner": "744229839137144925",
+        "footer": "Richârd wâs here 💖",
+        "activity": "Richârd wâs here 💖",
+
+        "guild": {
+            "id": "880254492719857745",
+            "tag": "✭",
+            "hashtag": "1000",
+            "voice": "898638038865965066",
+            "minyas": "15"
+                     },
+          
+        "token": {
+            "database": "TOKEN",
+            "guard1": "TOKEN",
+            "guard2": "TOKEN",
+            "moderation": "TOKEN"
+                 }
+}
